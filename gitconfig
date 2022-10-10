@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = enzo.z.garofalo@gmail.com
+	name = Enzo Garofalo
